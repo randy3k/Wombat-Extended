@@ -24,9 +24,9 @@
 		<string>#cae682</string>
 	</dict>
 	<key>name</key>
-	<string>Mowbat</string>
+	<string>wombat</string>
 	<key>semanticClass</key>
-	<string>theme.dark.mowbat</string>
+	<string>theme.dark.wombat</string>
 	<key>settings</key>
 	<array>
 		<dict>
