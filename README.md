@@ -4,18 +4,18 @@ The color scheme is from [Wombat](http://dengmao.wordpress.com/2007/01/22/vim-co
 
 CSS
 
-<img width=650 src="https://raw.githubusercontent.com/randy3k/sublime-monokai-extended/master/css.png">
+<img width=650 src="css.png">
 
 Python
 
-<img width=650 src="https://raw.githubusercontent.com/randy3k/sublime-monokai-extended/master/python.png">
+<img width=650 src="python.png">
 
-R -- [R-Extended](https://github.com/randy3k/R-Extended)
+C++
 
-<img width=650 src="https://raw.githubusercontent.com/randy3k/sublime-monokai-extended/master/r.png">
+<img width=650 src="cpp.png">
 
-C
+Javascript
 
-<img width=650 src="https://raw.githubusercontent.com/randy3k/sublime-monokai-extended/master/c.png">
+<img width=650 src="js.png">
 
 More screenshorts [here](http://colorsublime.com/theme/Wombat).
