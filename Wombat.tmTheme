@@ -52,6 +52,8 @@
 				<string>#000000</string>
 				<key>foreground</key>
 				<string>#f8f8f2</string>
+				<key>gutter</key>
+				<string>#272822</string>
 				<key>invisibles</key>
 				<string>#3b3a32</string>
 				<key>lineHighlight</key>
@@ -64,6 +66,33 @@
 				<string>#635f2d</string>
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
+				<key>popupCss</key>
+				<string>
+html {
+  background-color: #363731;
+  color: #f8f8f2;
+}
+
+body {
+  font-size: 1.1em;
+}
+
+a {
+  color: #66d9ef;
+}
+
+.error, .deleted {
+  color: #f92672;
+}
+
+.success, .inserted {
+  color: #a6e22e;
+}
+
+.warning, .modified {
+  color: #e6db74;
+}
+</string>
 			</dict>
 		</dict>
 		<dict>
