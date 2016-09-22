@@ -67,32 +67,7 @@
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
 				<key>popupCss</key>
-				<string>
-html {
-  background-color: #363731;
-  color: #f8f8f2;
-}
-
-body {
-  font-size: 1.1em;
-}
-
-a {
-  color: #66d9ef;
-}
-
-.error, .deleted {
-  color: #f92672;
-}
-
-.success, .inserted {
-  color: #a6e22e;
-}
-
-.warning, .modified {
-  color: #e6db74;
-}
-</string>
+				<string>html { background-color: #363731; color: #f8f8f2; } a { color: #88b8f6; } .error, .deleted { color: #ff8f7e; } .success, .inserted, .name { color: #cae682; } .warning, .modified { color: #ffcc66; } .type { color: #88b8f6; font-style: italic; } .param { color: #ffcc66; } .current { text-decoration: underline; }</string>
 			</dict>
 		</dict>
 		<dict>
