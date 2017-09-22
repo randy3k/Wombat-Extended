@@ -67,7 +67,7 @@
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
 				<key>popupCss</key>
-				<string>html { background-color: #363731; color: #f8f8f2; } a { color: #88b8f6; } .error, .deleted { color: #ff8f7e; } .success, .inserted, .name { color: #cae682; } .warning, .modified { color: #ffcc66; } .type { color: #88b8f6; font-style: italic; } .param { color: #ffcc66; } .current { text-decoration: underline; }</string>
+				<string>html { background-color: #363731; color: #f8f8f2; } a { color: #88b8f6; } .error, .deleted { color: #ff8f7e; } .success, .inserted, .name { color: #cae682; } .warning, .modified { color: #ffcc22; } .type { color: #88b8f6; font-style: italic; } .param { color: #ffcc22; } .current { text-decoration: underline; }</string>
 			</dict>
 		</dict>
 		<dict>
@@ -102,7 +102,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -135,7 +135,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,7 +224,7 @@
 				<key>fontStyle</key>
 				<string> italic</string>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -302,7 +302,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -324,7 +324,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -453,7 +453,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -475,7 +475,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -486,7 +486,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -519,7 +519,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -667,7 +667,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -711,7 +711,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC6699</string>
+				<string>#ffcc2299</string>
 			</dict>
 		</dict>
 		<dict>
@@ -744,7 +744,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66CC</string>
+				<string>#ffcc22CC</string>
 			</dict>
 		</dict>
 		<dict>
@@ -777,7 +777,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -952,7 +952,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1040,8 +1040,8 @@
 			<string>markup.raw.block</string>
 			<key>settings</key>
 			<dict>
-				<key>foreground</key>
-				<string>#ae81ff</string>
+				<key>background</key>
+				<string>#2d2d2d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1059,13 +1059,11 @@
 			<key>name</key>
 			<string>Markdown: Raw Block fenced</string>
 			<key>scope</key>
-			<string>markup.raw.block.fenced.markdown</string>
+			<string>markup.raw.code-fence</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#222</string>
-				<key>foreground</key>
-				<string>#ffffff</string>
+				<string>#2d2d2d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1180,7 +1178,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1219,7 +1217,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1324,7 +1322,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 				<key>foreground</key>
 				<string>#333333</string>
 				<key>fontStyle</key>
@@ -1363,7 +1361,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFCC66</string>
+				<string>#ffcc22</string>
 				<key>foreground</key>
 				<string>#333333</string>
 			</dict>
@@ -1407,7 +1405,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1438,7 +1436,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ffcc66</string>
+				<string>#ffcc22</string>
 			</dict>
 		</dict>
 		<dict>
