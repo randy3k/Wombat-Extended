@@ -52,8 +52,7 @@
         "brackets_foreground": "color(var(white3) alpha(0.65))",
         "bracket_contents_options": "underline",
         "bracket_contents_foreground": "color(var(white3) alpha(0.65))",
-        "tags_options": "stippled_underline",
-        "popup_css": "html { background-color: #363731; color: #f8f8f2; } a { color: #88b8f6; } .error, .deleted { color: #ff8f7e; } .success, .inserted, .name { color: #cae682; } .warning, .modified { color: #ffcc22; } .type { color: #88b8f6; font-style: italic; } .param { color: #ffcc22; } .current { text-decoration: underline; }"
+        "tags_options": "stippled_underline"
     },
     "rules":
     [
