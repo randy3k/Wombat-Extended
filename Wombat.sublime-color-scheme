@@ -74,7 +74,7 @@
         },
         {
             "name": "Constant: Built-in",
-            "scope": "constant.language, meta.preprocessor",
+            "scope": "constant.language",
             "foreground": "var(purple)"
         },
         {
